@@ -1,3 +1,3 @@
-#Object Oriented Programming Examples
+#Getting started with GitHub
 
-A set of examples used during lectures for H17135 Object Oriented Programming
+Introductory notes on getting set up with Git and GitHub 
